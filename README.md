@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manveesh5&label=Profile%20views&color=0e75b6&style=flat" alt="techierudra" /> </p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Yami1106&theme=onedark&row=1" />
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=manveesh5&theme=onedark&row=1" />
 </p>
 
 <h3>A Computer Science enthusiast currently pursuing B.Tech at SRMIST, Chennai. My academic journey has laid a robust foundation in C, C++, Python, and more. I thrive on innovation and problem-solving, with hands-on experience in projects involving Data Analytics, Machine Learning and Deep Learning.</h3>
